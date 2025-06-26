@@ -1,0 +1,5 @@
+# Supplementary Notes / 補足構造
+
+This system builds on the premise that internal flexibility improves external adaptability. Modulation cycles are mathematically formalized and are generalizable across multiple dynamic environments.
+
+本システムは、内部の柔軟性が外部適応性を高めるという前提に基づいて構成されています。変調サイクルは数学的に定式化されており、複数の動的環境に一般化可能です。
